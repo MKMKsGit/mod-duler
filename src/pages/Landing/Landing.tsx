@@ -1,7 +1,13 @@
+import Content from "./components/Content";
+import Footer from "./components/Footer";
+import Navbar from "./components/Navbar";
+
 const Landing = () => {
   return (
     <div>
-      <h1>Landing</h1>
+      <Navbar />
+      <Content />
+      <Footer />
     </div>
   );
 };
