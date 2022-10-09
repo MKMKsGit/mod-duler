@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/mod-duler/static/css/main.f3d3b291.css",
-    "main.js": "/mod-duler/static/js/main.3e31dffd.js",
+    "main.css": "/mod-duler/static/css/main.61fe1ae0.css",
+    "main.js": "/mod-duler/static/js/main.5b001981.js",
     "static/js/787.fb7c326b.chunk.js": "/mod-duler/static/js/787.fb7c326b.chunk.js",
     "index.html": "/mod-duler/index.html",
-    "main.f3d3b291.css.map": "/mod-duler/static/css/main.f3d3b291.css.map",
-    "main.3e31dffd.js.map": "/mod-duler/static/js/main.3e31dffd.js.map",
+    "main.61fe1ae0.css.map": "/mod-duler/static/css/main.61fe1ae0.css.map",
+    "main.5b001981.js.map": "/mod-duler/static/js/main.5b001981.js.map",
     "787.fb7c326b.chunk.js.map": "/mod-duler/static/js/787.fb7c326b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f3d3b291.css",
-    "static/js/main.3e31dffd.js"
+    "static/css/main.61fe1ae0.css",
+    "static/js/main.5b001981.js"
   ]
 }
