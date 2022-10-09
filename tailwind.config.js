@@ -2,15 +2,31 @@
 const colors = require("tailwindcss/colors");
 
 module.exports = {
+  mode: "jit",
   content: ["./src/**/*.{html,jsx,js,tsx,ts}"],
   theme: {
+    container: {
+      center: true,
+      screens: {
+        sm: "640px",
+        md: "768px",
+        lg: "1024px",
+        xl: "1280px",
+      },
+    },
     fontSize: {
-      h1: "2em",
-      h2: "1.5em",
-      h3: "1.17em",
-      h4: "1em",
-      h5: "0.83em",
-      h6: "0.67em",
+      h1: "40px",
+      h2: "32px",
+      h3: "28px",
+      h4: "24px",
+      h5: "20px",
+      h6: "16px",
+      body1: "16px",
+      body2: "14px",
+      subtitle1: "16px",
+      subtitle2: "14px",
+      button: "14px",
+      caption: "12px",
     },
     colors: {
       primary: "#1c0c5b",
